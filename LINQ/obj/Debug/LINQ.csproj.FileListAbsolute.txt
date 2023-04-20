@@ -1,0 +1,11 @@
+C:\Users\Максим\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\source\repos\LINQ\LINQ\obj\Debug\LINQ.Form1.resources
+C:\Users\Максим\source\repos\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+C:\Users\Максим\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Максим\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Максим\source\repos\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Максим\source\repos\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Максим\source\repos\LINQ\LINQ\obj\Debug\LINQ.pdb
